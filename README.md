@@ -1,3 +1,6 @@
+이것은 원작자인 Btran1291님의 TMPlugin-Imagen3의 Fork 버전입니다. 
+비공식 버전이므로, 사용에 주의를 요하며, 개인의 책임으로 사용하여 주십시오.
+
 🖼️ **Google Imagen 3 Image Generator**
 
 Generate images from your text prompts using Google's Imagen 3 model! ✨
