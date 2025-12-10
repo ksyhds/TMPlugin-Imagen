@@ -22,7 +22,7 @@
         "hasResultTransform": true
     },
     "openaiSpec": {
-        "name": "generate_image_with_google_imagen_3",
+        "name": "generate_image_with_google_imagen",
         "parameters": {
             "type": "object",
             "required": [
@@ -39,7 +39,7 @@
                 }
             }
         },
-        "description": "Generates images using Google's Imagen 3 model.  Provide a detailed prompt and, optionally, a negative prompt to guide the generation."
+        "description": "Generates images using Google's Imagen model.  Provide a detailed prompt and, optionally, a negative prompt to guide the generation."
     },
     "outputType": "render_markdown",
     "oauthConfig": {
